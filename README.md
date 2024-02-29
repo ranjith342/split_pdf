@@ -10,7 +10,7 @@ pip install -r requirements.txt
 ```
 file_path = "Your pdf file path"
 
-folder_to_save = "Your destination folder to save the splitted pdfs
+folder_to_save = "Your destination folder to save the splitted pdfs"
 ```
 
 # Outputs
